@@ -1,0 +1,4 @@
+# robots.txt file to allow homepage and disallow everything else
+
+User-agent: *
+Disallow: /
