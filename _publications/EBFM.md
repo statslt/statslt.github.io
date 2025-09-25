@@ -1,7 +1,7 @@
 ---
 title: "A Novel Empirical Bayes Mathod for Genetic Fine-mapping with GWAS Summary Statistics"
 category: manuscripts
-permalink: /publication/2025-03-01-enhancing-identification-of-disease-causing-genetic-features
+permalink: /publication/EBFM
 excerpt: ""
 venue: "Preprint Manuscript"
 paperurl: "https://your.preprint.server/your-paper.pdf"
