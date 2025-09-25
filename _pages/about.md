@@ -11,13 +11,13 @@ redirect_from:
 
 I'm a third year undergraduate student majoring in Statistics and minoring in Finance, at the **[Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology(SUSTech)](https://www.sustech.edu.cn/en/)**. During my undergraduate studies, I am supervised by Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) at SUSTech.
 
-For my research experiences, I used to be a research intern in [Professor Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of other research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen), [Dr. Molei Liu](https://moleibobliu.github.io/), and [Dr. Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html), which span my research interests. My CV is 
+For my research experiences, I used to be a research intern in [Professor Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of other research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen), [Dr. Molei Liu](https://moleibobliu.github.io/), and [Dr. Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html), which span my research interests. My CV is available [here](/files/Longtian_Shi_CV_2025_9_25updated.pdf).
 
 My previous research experiences include:
 
-(i) **Causal Inference and Machine Learning**: Kernel-assisted double/debiased machine learning under covariate shifts in modern complex datasets.
+(i) **Causal Inference and Machine Learning**: Kernel-assisted double/debiased machine learning in modern complex datasets.
 
-(ii) Statistical Genetics, especially genetic fine-mapping in GWAS studies.
+(ii) Statistical Genetics, such as genetic fine-mapping in GWAS studies.
 
 (iii) Computational Social Science and Network Science, as applications.
 
