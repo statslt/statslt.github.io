@@ -2,8 +2,8 @@
 title: "The Prize Premium in Publishing Timelines"
 category: manuscripts
 permalink: /publication/ntjy
-excerpt: ""
-venue: "Preprint Manuscript"
+excerpt: "Manuscript"
+venue: ""
 paperurl: "https://your.preprint.server/your-paper.pdf"
 authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
