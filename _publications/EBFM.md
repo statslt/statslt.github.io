@@ -2,8 +2,8 @@
 title: "A Novel Empirical Bayes Mathod for Genetic Fine-mapping with GWAS Summary Statistics"
 category: manuscripts
 permalink: /publication/EBFM
-excerpt: ""
-venue: "Preprint Manuscript"
+excerpt: "Manuscript"
+venue: ""
 paperurl: "https://your.preprint.server/your-paper.pdf"
 authors: ["Zhang, X.", "Shi, L.", "Zhao, H."]
 corresponding_author: "Zhao, H."
