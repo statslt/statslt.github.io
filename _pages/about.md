@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Longtian Shi(师珑天)'s Little World"
+title: "Longtian Shi's Little World"
 author_profile: true
 redirect_from: 
   - /about/
