@@ -4,7 +4,6 @@ category: manuscripts
 permalink: /publication/NTJY
 excerpt: "Under Review"
 venue: ""
-paperurl: ""
 authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
 ---
