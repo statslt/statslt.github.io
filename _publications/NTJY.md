@@ -8,7 +8,7 @@ authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
 ---
   
-Under Review.
+Under Review by the *Journal of Informetrics*.
 
 ![JOI Figure 1 Data Curation and Conceptualization](/images/JOI_Figure1.png)
 
