@@ -11,7 +11,7 @@ redirect_from:
 
 I'm a third year undergraduate student majoring in Statistics and minoring in Finance, at the **[Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/)**, China. During my undergraduate studies, I am honored to be supervised by Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Assistant Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
 
-For my research experiences, I used to be a research intern in [Professor Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of other research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen), and [Dr. Molei Liu](https://moleibobliu.github.io/), which span my research interests. 
+For my research experiences, I used to be a research intern in [Prof. Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of other research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen), and [Dr. Molei Liu](https://moleibobliu.github.io/), which span my research interests. 
 
 
 My previous research experiences include:
