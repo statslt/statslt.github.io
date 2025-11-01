@@ -4,7 +4,7 @@ category: manuscripts
 permalink: /publication/NTJY
 excerpt: "Manuscript"
 venue: ""
-paperurl: "https://your.preprint.server/your-paper.pdf"
+paperurl: ""
 authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
 ---
