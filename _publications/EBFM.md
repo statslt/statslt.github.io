@@ -4,7 +4,7 @@ category: manuscripts
 permalink: /publication/EBFM
 excerpt: "Manuscript"
 venue: ""
-paperurl: "https://your.preprint.server/your-paper.pdf"
+paperurl: ""
 authors: ["Zhang, X.", "Shi, L.", "Zhao, H."]
 corresponding_author: "Zhao, H."
 ---
