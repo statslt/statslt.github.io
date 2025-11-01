@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-**Welcome to my Homepage!** (Last Updated on 09/25/2025)
+**Welcome to my Homepage!**
 
 I'm a third year undergraduate student majoring in Statistics and minoring in Finance, at the **[Department of Statistics and Data Science](https://stat-ds.sustech.edu.cn/?lang=en-us), [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/)**, China. During my undergraduate studies, I am honored to be supervised by Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Assistant Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
 
