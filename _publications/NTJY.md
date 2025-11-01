@@ -13,7 +13,7 @@ Submitted.
 
 ![JOI Figure 1 Data Curation and Conceptualization](/images/JOI_Figure1.png)
 
-![JOI Figure 2 DID Event Studies](/images/JOI_Figure2.png)
+![JOI Figure 2 Example of DID Event Study](/images/JOI_Figure2.png)
 
 <!--  
   The “citation” line below will automatically be rendered in small font on the standalone publication page,  
