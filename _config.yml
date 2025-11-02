@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "A Studentized Student"
 title_separator          : "-"
 name                     : &name "Longtian Shi(师珑天)"
-description              : &description "Statistics Undergrad Seeking 2026Fall PhD Opportunities"
+description              : &description "Statistics Undergrad Seeking PhD Opportunities in Fall 2026"
 url                      : https://statslt.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "statslt/statslt.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "NY.png"
   name             : "Longtian Shi / 师珑天"
   pronouns         : "Shelton (he/his/him)"  
-  bio              : "Statistics Undergrad Seeking 2026Fall PhD Opportunities"
+  bio              : "Statistics Undergrad Seeking PhD Opportunities in Fall 2026"
   location         : "Shenzhen, China"
   employer         : "SUSTech"
   uri              : # URL
