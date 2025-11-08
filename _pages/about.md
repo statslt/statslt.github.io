@@ -27,7 +27,7 @@ I am very fortunate and grateful to be advised by my mentors and supervisors and
 
 Eagerly Seeking Fully-funded 2026 fall PhD Opportunites in Statistics/Biostatistics/Data Science
 ======
-***Please feel free to email me if you are in want of a PhD student whose research experiences, skills and personality could align with and be a matched help of your ongoing research projects.*** We can always schedule a chat to see if there is any intersection of interest. Happy to collaborate! My CV is available [here](/files/Longtian_Shi_CV_11_06_2025_updated.pdf).
+***Please feel free to email me if you are in want of a PhD student whose research experiences, skills and personality could align with and be a matched help of your ongoing research projects.*** We can always schedule a chat to see if there is any intersection of interest. Happy to collaborate! My CV is available [here](/files/Longtian_Shi_CV_11_08_2025_updated.pdf).
 
 
 [Email](shilt2022@mail.sustech.edu.cn)/[LinkedIn](https://www.linkedin.com/in/longtian-shi-280b14315/)
