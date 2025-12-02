@@ -2,7 +2,7 @@
 title: "The Prize Premium in Publishing Timelines"
 category: manuscripts
 permalink: /publication/NTJY
-excerpt: "Under Review"
+excerpt: "Revision"
 venue: ""
 authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
