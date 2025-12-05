@@ -16,7 +16,7 @@ For my research experiences, I used to be a research intern in [Prof. Hongyu Zha
 
 My previous research experiences include:
 
-(i) **Causal Machine Learning**: Kernel-assisted double/debiased machine learning in modern complex datasets and distribution shifts. 
+(i) **Causal Machine Learning**: Kernel-assisted double/debiased machine learning and robust inference in modern complex datasets (e.g., distribution shift and high dimensionality).
 
 (ii) Statistical Genetics, such as genetic fine-mapping in GWAS studies. Bayesian methods.
 
@@ -33,7 +33,7 @@ Eagerly Seeking Fully-funded 2026 fall PhD Opportunites in Statistics/Biostatist
 [Email](shilt2022@mail.sustech.edu.cn)/[LinkedIn](https://www.linkedin.com/in/longtian-shi-280b14315/)
 
 
-My hobbies include basketball, tabel tennis, movie, music, billiards, etc.
+My hobbies include basketball (huge NBA fan!), running (training for half marathon!), tabel tennis (used to have a professional dream), music (R&B all night~), etc. 
 
 
 
