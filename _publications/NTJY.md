@@ -2,13 +2,13 @@
 title: "The Prize Premium in Publishing Timelines"
 category: manuscripts
 permalink: /publication/NTJY
-excerpt: "Revision"
+excerpt: "Revision Completed"
 venue: ""
 authors: ["Shi,L.", "Shi, Y.", "Fu, Y.", "Jiang, F.", "Ma, Y."]
 corresponding_author: "Ma, Y."
 ---
   
-In Revision by the *Journal of Informetrics*.
+Revision completed in the *Journal of Informetrics*.
 
 ![JOI Figure 1 Data Curation and Conceptualization](/images/JOI_Figure1.png)
 
