@@ -9,9 +9,10 @@ redirect_from:
 
 **Welcome to my Homepage!**
 
-I'm a 4th year undergraduate student majoring in Statistics and minoring in Finance at the Department of Statistics and Data Science, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. During my undergraduate studies, I am honored to be supervised by Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Associate Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
+I'm a 4th year undergraduate student majoring in Statistics and minoring in Finance at the Department of Statistics and Data Science, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. During my undergraduate studies, I am honored to be advised by Chair Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Associate Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
 
-For my research experiences, I used to be a research intern in [Prof. Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen) and [Dr. Molei Liu](https://moleibobliu.github.io/), which span my research interests. 
+For my research experiences, I used to be a research intern in [Prof. Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen) (UC Berkeley) and [Dr. Molei Liu](https://moleibobliu.github.io/) (PKU), which span my research interests. 
+
 
 
 My previous research experiences include:
@@ -33,7 +34,7 @@ Eagerly Seeking Fully-funded Fall 2026 PhD Opportunites in Statistics/Biostatist
 [Email](shilt2022@mail.sustech.edu.cn)/[LinkedIn](https://www.linkedin.com/in/longtian-shi-280b14315/)
 
 
-My hobbies include basketball (huge NBA fan!), running (training for half marathon!), tabel tennis (used to have a professional dream), music (R&B all night~), etc. 
+Beyong studies and research, my hobbies include basketball (huge NBA fan!), running (training for half marathon!), tabel tennis (used to have a professional dream), music (R&B, hip-hop), etc. 
 
 
 
