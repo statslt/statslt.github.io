@@ -9,7 +9,7 @@ redirect_from:
 
 **Welcome to my Homepage!**
 
-I'm a 4th year undergraduate student majoring in Statistics and minoring in Finance at the Department of Statistics and Data Science, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. During my undergraduate studies, I am honored to be advised by Chair Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Associate Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
+I'm a 4th year undergraduate student majoring in Statistics and minoring in Finance at the Department of Statistics and Data Science, [Southern University of Science and Technology (SUSTech)](https://www.sustech.edu.cn/en/), China. My first name can be pronounced as `/ˈlɒŋ.tjɛn ʂʅ/` (or “Long-tee-en Shr”). During my undergraduate studies, I am honored to be advised by Chair Professor [Qi-Man Shao](https://www.sustech.edu.cn/en/faculties/shaoqiman.html) and Associate Professor [Yifang Ma](https://www.sustech.edu.cn/en/faculties/mayifang.html) at my department.
 
 For my research experiences, I used to be a research intern in [Prof. Hongyu Zhao's Lab](https://zhaocenter.org/) at Yale University in 2024. Also, I have been exploring a variety of research areas under the supervision of [Prof. Rasmus Nielsen](https://statistics.berkeley.edu/people/rasmus-nielsen) (UC Berkeley) and [Dr. Molei Liu](https://moleibobliu.github.io/) (PKU). In the forthcoming PhD studies, I plan to explore many areas of interest, including interpretable AI, AI for healthcare, and causal inference in modern AI/ML/DL scenarios. My updated CV is available [here](/files/Longtian_Shi_CV_01_22_2026_updated.pdf).
 
