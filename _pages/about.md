@@ -25,15 +25,6 @@ My previous research experiences include:
 
 I am very fortunate and grateful to be advised by my mentors and supervisors and to do research projects with my collaborators!
 
-
-Eagerly Seeking Fully-funded Fall 2026 PhD Opportunites in Statistics/Biostatistics/Data Science
-======
-Please feel free to email me if you are hiring PhD students. We can always schedule a chat to see if there is any intersection of interest.
-
-
-[Email](shilt2022@mail.sustech.edu.cn)/[LinkedIn](https://www.linkedin.com/in/longtian-shi-280b14315/)
-
-
 Beyong studies and research, my hobbies include basketball (huge NBA fan!), running (training for half marathon!), tabel tennis (used to have a professional dream), music (R&B, hip-hop), etc. 
 
 
