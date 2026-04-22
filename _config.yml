@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "A Studentized Student"
 title_separator          : "-"
 name                     : &name "Longtian Shi(师珑天)"
-description              : &description "Statistics Undergrad Seeking PhD Opportunities in Fall 2026"
+description              : &First-year Statistics PhD student at NUS"
 url                      : https://statslt.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "statslt/statslt.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "SF.jpg"
   name             : "Longtian Shi / 师珑天"
   pronouns         : "Shelton (he/his/him)"  
-  bio              : "Statistics Undergrad Seeking PhD Opportunities in Fall 2026"
-  location         : "Shenzhen, China"
-  employer         : "SUSTech"
+  bio              : "First-year Statistics PhD student at NUS"
+  location         : "Singapore"
+  employer         : "National University of Singapore"
   uri              : # URL
   email            : "shilt2022@mail.sustech.edu.cn" 
 
