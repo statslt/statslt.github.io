@@ -48,5 +48,5 @@ You can modify yours by replacing your personal image, key words, and education 
 
 ![Education2](/images/Education2.png)
 
-![Education2](/images/Education.png)
+![Education](/images/Education.png)
 
