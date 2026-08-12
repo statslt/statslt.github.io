@@ -36,9 +36,3 @@ Beyong studies and research, my hobbies include basketball (huge NBA fan!), bill
 * **[Jul 28th, 2025]** Established this News section.
 
 
-
-<div style="display:block; width:400px; height:400px; margin: 0 auto;">
-  {% raw %}
-  <script type="text/javascript" id="clstr_globe" src="https://clustrmaps.com/globe.js?d=hz6k6GhkBzNXk-zatck70bB_OnevtaTUx9GNaLEP09E"></script>
-  {% endraw %}
-</div>
