@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "A Studentized Student"
 title_separator          : "-"
 name                     : &name "Longtian Shi(师珑天)"
-description              : &First-year Statistics PhD student at NUS"
+description              : &Statistics PhD candidate at NUS"
 url                      : https://statslt.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "statslt/statslt.github.io"
