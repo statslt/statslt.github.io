@@ -25,7 +25,9 @@ Beyong studies and research, my hobbies include basketball (huge NBA fan!), bill
 
 ## <font color = '#000000'>News</font>
 
-* **[June 16th, 2026]** Grateful for receiving the Summa Cum Laude (top 10 undergraduate) honor from the College of Science (SUSTech) and being a candidate for the university's top 10 undergraduate list.
+* **[Aug 26th, 2026]** Passed the (written) PhD Qualifying Examination!
+
+* **[June 16th, 2026]** Grateful for receiving the Summa Cum Laude (top 10 undergraduate) honor from the College of Science (SUSTech) and being a candidate for the university's top 10 undergraduate figure.
 
 * **[Apr 22nd, 2026]** Grateful for the offer of admission from NUS Statistics PhD! It is my honor to accept the offer. Unfortunately rejected by every US PhD program this (extremely competitive) application cycle, but looking forward to the next 4-year journey!
 
