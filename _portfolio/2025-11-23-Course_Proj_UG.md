@@ -11,7 +11,7 @@ Click the hyperlinks to see the PDF files for the project report or slides, whic
 
 2. [Network Science and Computing](/files/Network_Project_Report.pdf), with [Tianyu Li](https://jacktianyuli.github.io/index.html) and Xuanzhe Xu. Curated global flight network datasets from the Internet.
 
-3. [Statistical Learning](/files/Statistical_Learning_Project.pdf), with Yao Fu and Kaixiang Liang. Natural Language Processing (NLP) and Classification for MBTI datasets.
+3. [Statistical Learning](/files/Statistical_Learning_Project.pdf), with Yao Fu and [Kaixiang Liang](https://www.linkedin.com/in/kaixiang-liang-62aa48405/). Natural Language Processing (NLP) and Classification for MBTI datasets.
 
 
 Thankful for my brilliant teammates!
